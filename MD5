@@ -1,0 +1,10 @@
+fb6049079c59e8f7aeb41f3b7ba87042 *DESCRIPTION
+d53c10870ccaa3f8a6d356bf346dddb7 *NAMESPACE
+5421d6916f792a151535c88ab800fe54 *R/reactCheckbox.R
+8308fba0a01e0cb35168355a67774313 *README.md
+257111ee01705dd8de0cf47cf51f6414 *inst/www/reactCheckbox/reactCheckbox/reactCheckbox.js
+86e415f711c2d4da708f3369124785b9 *inst/www/reactCheckbox/reactCheckbox/reactCheckbox.js.map
+8016a2a92e3e4efccf69a2bb55240401 *man/checkbox.Rd
+d92816bbf0e94ce19877ffba822171fc *man/checkboxStyle.Rd
+742a79aeb037bcf97c39e739c4da8e91 *man/reactCheckboxesInput.Rd
+7bcbd517ddda9a03d56bdd183aa0e78d *man/updateReactCheckboxInput.Rd
